@@ -1,6 +1,5 @@
 # data-science-projects
 
-Reload page in case code is not shown.
 
 The purpose of the project, is to learn python for data analysis and data exploration.
 
