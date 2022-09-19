@@ -1,7 +1,7 @@
 # data-science-projects
 
 
-The purpose of the project, is to learn python for data science and data analytics.
+The purpose of the project, is to use python for data science and data analytics.
 
 The means are gonna be musical data extracted from Spotify API.
 
