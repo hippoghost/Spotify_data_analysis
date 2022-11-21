@@ -13,4 +13,6 @@ Statistical methods, visualizations and machine learning algorithms are applied 
 
 
 
+
+
 Metallica, Iron Maiden, Iced Earth, Blind Guardian and few more were chosen as bands of choice.
