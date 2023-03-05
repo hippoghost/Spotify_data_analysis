@@ -2,7 +2,9 @@
 # Spotify Data analysis
 
 Have you ever wondered which of your favorite metal bands from your adulthood is the most popular? 
+
 Could Iron Maiden sound happier than Metallica? 
+
 Are Iced Earth's songs more energetic than other metal bands' songs?
 
 
