@@ -1,20 +1,20 @@
 
 # Spotify Data analysis
 
-Do you ever wonder which of your adulthood’s metal bands is most popular? 
-
-Could Iron Maiden sound happier than Metallica?
-
-Are Iced Earth’s songs more energetic than the other bands songs?
+Have you ever wondered which of your favorite metal bands from your adulthood is the most popular? 
+Could Iron Maiden sound happier than Metallica? 
+Are Iced Earth's songs more energetic than other metal bands' songs?
 
 
 
 ## PROJECT OVERVIEW
 
 
-The purpose of this project is to show how Spotify’s extracted data could be used to draw some meaningful insights. Python is used for data cleaning and preprocessing and different imputing techniques are used for missing values.
+The purpose of this project is to demonstrate how extracted data from Spotify can be used to gain meaningful insights. Python was used for data cleaning and preprocessing, and various imputing techniques were applied to handle missing values. 
 
-Statistical methods, visualizations and machine learning algorithms such as Cluster Analysis and Principal Component Analysis are applied in the Dataset.
+Statistical methods, visualizations, and machine learning algorithms, such as Cluster Analysis and Principal Component Analysis, were utilized in the dataset.
+
+
 ## DATA
 
 All data was extracted through Spotify's API.
