@@ -42,4 +42,4 @@ All data was extracted through Spotify's API.
 
 
 ## 🚀 About Me
-Data analyst & Storyteller ┃Pattern discoverer 
+Data analyst & Storyteller ┃ Pattern discoverer 
